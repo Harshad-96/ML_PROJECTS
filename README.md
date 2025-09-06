@@ -11,7 +11,6 @@ Each project demonstrates skills in **data preprocessing, exploratory data analy
 - Performed EDA on multiple datasets to understand data distribution, patterns, and correlations.  
 - Techniques used: histograms, pairplots, boxplots, correlation heatmaps.  
 - Goal: Gain insights before applying machine learning models.  
-- 📂 [View Project](./01-EDA-Portfolio)
 
 ---
 
@@ -19,7 +18,6 @@ Each project demonstrates skills in **data preprocessing, exploratory data analy
 - Built ML models to classify iris flowers into **Setosa, Versicolor, Virginica** using petal & sepal dimensions.  
 - Compared multiple algorithms (Logistic Regression, KNN, SVM, Random Forest).  
 - Achieved **96% accuracy** with Random Forest.  
-- 📂 [View Project](./02-Iris-Classification)
 
 ---
 
@@ -28,7 +26,6 @@ Each project demonstrates skills in **data preprocessing, exploratory data analy
 - Cleaned data, handled missing values, performed **feature encoding & engineering**.  
 - Compared models (Logistic Regression, SVC, Random Forest).  
 - Achieved **82% accuracy** with Random Forest.  
-- 📂 [View Project](./03-Titanic-Survival)
 
 ---
 
@@ -37,7 +34,6 @@ Each project demonstrates skills in **data preprocessing, exploratory data analy
 - Applied **EDA, feature scaling, Linear Regression**.  
 - Evaluated with **RMSE** and **R² score**.  
 - Visualized predicted vs actual house prices.  
-- 📂 [View Project](./04-Housing-Price-Predictor)
 
 ---
 
